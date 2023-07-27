@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae1bd39a.css",
+    "main.js": "/static/js/main.360a3457.js",
+    "static/media/vim-cheatsheet.pdf": "/static/media/vim-cheatsheet.ee78b68289ccec2b7b91.pdf",
+    "static/media/a.jpg": "/static/media/a.0f6be646219c1cc115ff.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.ae1bd39a.css.map": "/static/css/main.ae1bd39a.css.map",
+    "main.360a3457.js.map": "/static/js/main.360a3457.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae1bd39a.css",
+    "static/js/main.360a3457.js"
+  ]
+}
